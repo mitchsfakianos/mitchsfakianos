@@ -1,15 +1,21 @@
-# Hello everybody 👋 I'm Mitch
+# Hello everybody 👋 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mazarinno)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitch-sfakianos-7758a8132/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcsfakianos@gmail.com)
 
-#### skills
-
 - 💬 languages：![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-circle&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-circle&logo=c%2B%2B&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-circle&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=flat-circle&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-circle&logo=typescript&logoColor=white)
 
 - 🖼️ frameworks: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-circle&logo=anaconda&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-circle&logo=bootstrap&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-circle&logo=express&logoColor=%2361DAFB)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-circle&logo=npm&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-circle&logo=node.js&logoColor=white)![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat-circle&logo=p5.js&logoColor=FFFFFF)![Pug](https://img.shields.io/badge/Pug-FFF?style=flat-circle&logo=pug&logoColor=A86454)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-circle&logo=react&logoColor=%2361DAFB)
 
+```javascript
+const mitch = {
+    pronouns: "He" | "Him",
+    currentEducation: "Southern New Hampshire University",
+    askMeAbout: ["web dev", "game dev", "app dev", "Plato"],
+    currentlyLearning: "Python data science and ML"
+};
+```
 
 ---
 
