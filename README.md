@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitch-sfakianos-7758a8132/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcsfakianos@gmail.com)
 
+---
+
 ### 📰 My Projects :
 
 Feel free to check out my [live portfolio site](https://mitchsfakianos.herokuapp.com/)!
