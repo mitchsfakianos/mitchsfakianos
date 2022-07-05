@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcsfakianos@gmail.com)
 
 
-## :fire: GitHub Stats :
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mazarinno&theme=dark&show_icons=true" width="300" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarinno&theme=dark&layout=compact&show_icons=true" width="300"/></a>
