@@ -13,7 +13,7 @@ const mitch = {
 ```
 
 ## My Medium posts:
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@mcsfakianos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mcsfakianos/0" alt="Recent Article 0" /></a> 
+<a href="https://medium.com/@mcsfakianos/predicting-your-way-to-winning-in-league-of-legends-b1bed3743995"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mcsfakianos/0" alt="Recent Article 0" /></a> 
 
 ## :fire: GitHub Stats :
 <div>
