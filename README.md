@@ -17,6 +17,5 @@ const mitch = {
 
 ## :fire: GitHub Stats :
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mazarinno&theme=dark&show_icons=true" width="300" /></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mazarinno&theme=highcontrast&hide_border=true" width="300" /></a>
 </div>
