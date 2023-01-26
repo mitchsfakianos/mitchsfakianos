@@ -11,6 +11,6 @@ const mitch = {
 };
 ```
 
-<div>
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mazarinno&theme=highcontrast&hide_border=true" width="300" /></a>
-</div>
+
