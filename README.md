@@ -10,7 +10,4 @@ const mitch = {
     askMeAbout: ["web dev", "game dev", "Plato"]
 };
 ```
-
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mazarinno&theme=highcontrast&hide_border=true" width="300" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mazarinno&theme=gruvbox&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
