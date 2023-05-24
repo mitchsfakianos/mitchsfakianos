@@ -6,7 +6,7 @@
 ```javascript
 const mitch = {
     pronouns: "He" | "Him",
-    currentEducation: "Southern New Hampshire University",
+    education: "Southern New Hampshire University",
     askMeAbout: ["web dev", "game dev", "Plato"]
 };
 ```
